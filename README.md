@@ -72,3 +72,7 @@ Restaurant
 - Fork this repository to your local device
 - Open your terminal and run pipenv install
 - create instances of customers, restaurants, and reviews using the provided classes. You can then utilize the various methods to retrieve information, perform operations, and manage reviews.
+
+# Author 
+- Joseph Karanja
+@ JoeHaste on Github
